@@ -3,7 +3,7 @@ Speech Emotion Recognition, abbreviated as SER, is the act of attempting to reco
 
 ***Speech Emotion Recognition – Objective***
 
-To build a model to recognize emotion from speech using the librosa and sklearn libraries and the RAVDESS dataset.
+To build a model to recognize emotion from speech using the librosa and sklearn libraries and the TESS dataset.
 
 Content
 
@@ -27,7 +27,8 @@ Thedata content is
     YAF_neutral
     YAF_pleasant_surprised
     YAF_sad
-#### NOTE-  The data is colacted by two age group 21 and 26 so here, " OAF_ means older peaple and YAF_ mean younger peaple. " 
+    
+#### NOTE-  The data is colacted by two age group (aged 26 and 64 years) so here, " OAF_ means older peaple and YAF_ mean younger peaple. " 
 
 ### MFCC
 
@@ -95,6 +96,8 @@ Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively m
         
         
 #### Model result
+
+#### After training model reach up to 99 % of accuracy on test data.
 
 ![image](https://user-images.githubusercontent.com/94167271/191080873-8642e19f-b03d-45dc-98f9-fb375517aa9e.png)
 
