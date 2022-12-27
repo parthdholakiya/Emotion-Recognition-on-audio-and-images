@@ -106,6 +106,30 @@ Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively m
 
 ![image](https://user-images.githubusercontent.com/94167271/191080873-8642e19f-b03d-45dc-98f9-fb375517aa9e.png)
 
+
+#### classification report 
+
+                      precision    recall  f1-score   support
+
+                   0       1.00      1.00      1.00        34
+                   1       1.00      0.98      0.99        59
+                   2       1.00      1.00      1.00        44
+                   3       1.00      1.00      1.00        53
+                   4       1.00      1.00      1.00        55
+                   5       0.98      1.00      0.99        48
+                   6       1.00      1.00      1.00        58
+                   7       1.00      0.96      0.98        52
+                   8       1.00      1.00      1.00        55
+                   9       0.98      1.00      0.99        54
+                  10       0.98      1.00      0.99        53
+                  11       1.00      1.00      1.00        49
+                  12       1.00      1.00      1.00        45
+                  13       1.00      1.00      1.00        41
+
+            accuracy                           1.00       700
+           macro avg       1.00      1.00      1.00       700
+        weighted avg       1.00      1.00      1.00       700
+
 #### Confusion_matrix
 
 ![image](https://user-images.githubusercontent.com/94167271/191081282-a7d2cde0-d194-4fba-98f1-203fbd60a76e.png)
