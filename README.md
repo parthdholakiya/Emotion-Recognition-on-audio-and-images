@@ -42,7 +42,7 @@ Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively m
 
 
 
-![image](https://user-images.githubusercontent.com/94167271/191076729-b6a3ff9b-ee44-4f26-8e7a-b4b226bcc691.png)
+
 
 
 
@@ -137,6 +137,7 @@ Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively m
 ### validate model on famous MARVEL dialogue
 
 ![image](https://user-images.githubusercontent.com/94167271/210097460-af571950-818d-4440-8624-c67412a0d245.png)
+![MARVEL](https://user-images.githubusercontent.com/94167271/210097817-f35aaf8e-d868-4f56-908e-8e1bcfb89729.gif)
 
 
 #### After training and testing model predicted emotion in MARVEL famous dialogue like "I am Groot”, "I am iron man" ," he's friend from work"  it went very well.
