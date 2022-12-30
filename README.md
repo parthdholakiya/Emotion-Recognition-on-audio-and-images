@@ -136,7 +136,6 @@ Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively m
 
 ### validate model on famous MARVEL dialogue
 
-![image](https://user-images.githubusercontent.com/94167271/210097460-af571950-818d-4440-8624-c67412a0d245.png)
 ![MARVEL](https://user-images.githubusercontent.com/94167271/210097817-f35aaf8e-d868-4f56-908e-8e1bcfb89729.gif)
 
 
