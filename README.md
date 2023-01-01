@@ -6,7 +6,7 @@ Speech Emotion Recognition, abbreviated as SER, is the act of attempting to reco
 
 ***Speech Emotion Recognition – Objective***
 
-To build a model to recognize emotion from speech using the librosa and sklearn libraries and the TESS dataset.
+# To build a model to recognize emotion from speech using the librosa and sklearn libraries on the TESS dataset.
 
 #### dataset from kaggle https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
@@ -33,7 +33,7 @@ The dataset is organised such that each of the two female actor and their emotio
     YAF_pleasant_surprised
     YAF_sad
     
-#### NOTE-  The data is colacted by two age group (aged 26 and 64 years) so here, " OAF_ means older peaple and YAF_ mean younger peaple. " 
+#### NOTE- The data is collected by two age group (aged 26 and 64 years) so here, " OAF_ means older people and YAF_ mean younger people. "
 
 ### MFCC
 
@@ -139,7 +139,7 @@ Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively m
 ![MARVEL](https://user-images.githubusercontent.com/94167271/210097817-f35aaf8e-d868-4f56-908e-8e1bcfb89729.gif)
 
 
-#### After training and testing model predicted emotion in MARVEL famous dialogue like "I am Groot”, "I am iron man" ," he's friend from work"  it went very well.
+####Live demo on MARVEL famous dialogue like "I am Groot”, "I am iron man" ," he's friend from work"
 
 ![Screenshot (360)](https://user-images.githubusercontent.com/94167271/191084474-75892963-abcc-468e-be0d-368af9bcab5b.png)
 
