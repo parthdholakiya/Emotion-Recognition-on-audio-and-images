@@ -139,8 +139,13 @@ Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively m
 ![MARVEL](https://user-images.githubusercontent.com/94167271/210097817-f35aaf8e-d868-4f56-908e-8e1bcfb89729.gif)
 
 
-####Live demo on MARVEL famous dialogue like "I am Groot”, "I am iron man" ," he's friend from work"
+#### Live demo on MARVEL famous dialogue like 
 
-![Screenshot (360)](https://user-images.githubusercontent.com/94167271/191084474-75892963-abcc-468e-be0d-368af9bcab5b.png)
+        Groot--"I am Groot”
+        Tony stark--"I am iron man" 
+        Antman - "oh my god"
+        Loki-"I am falling for thirty minutes"
+
+![Screenshot (385)cap](https://user-images.githubusercontent.com/94167271/210166724-f2c2b3d0-1a4f-4887-a122-980c38777d01.png)
 
 
