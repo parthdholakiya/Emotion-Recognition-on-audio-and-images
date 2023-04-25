@@ -9,7 +9,7 @@ Speech Emotion Recognition, abbreviated as SER, is the act of attempting to reco
 
 ***Speech Emotion Recognition – Objective***
 
-# To build a model to recognize emotion from speech using the librosa and sklearn libraries on the TESS dataset.
+#### To build a model to recognize emotion from speech using the librosa and sklearn libraries on the TESS dataset.
 
 #### dataset from kaggle https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
@@ -41,12 +41,6 @@ The dataset is organised such that each of the two female actor and their emotio
 ### MFCC
 
 Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively make up an MFC. They are derived from a type of cepstral representation of the audio clip (a nonlinear "spectrum-of-a-spectrum").
-
-
-
-
-
-
 
 
 ### CNN MODEL
