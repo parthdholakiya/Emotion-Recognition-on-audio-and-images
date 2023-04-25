@@ -1,4 +1,6 @@
 # Speech-Emotion-Recognition
+![image](https://user-images.githubusercontent.com/94167271/234299174-e0514f9a-f82f-4f01-9734-33a17da85e63.png)
+
 
 
 Emotional speech recognition aims at automatically identifying the emotional or physical state of a human being from his or her voice. The emotional and physical states of a speaker are known as emotional aspects of speech and are included in the so-called paralinguistic aspects.
