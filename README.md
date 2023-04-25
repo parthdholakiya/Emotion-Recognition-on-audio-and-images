@@ -151,4 +151,6 @@ Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively m
 
 ![Screenshot (385)cap](https://user-images.githubusercontent.com/94167271/210166724-f2c2b3d0-1a4f-4887-a122-980c38777d01.png)
 
+### Emotion detaction using Images (YOLO V8)
 
+![image](https://user-images.githubusercontent.com/94167271/234352632-e079229e-4fa8-4874-af7a-8edc0b56f61a.png)
