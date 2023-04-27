@@ -40,8 +40,7 @@ The dataset is organised such that each of the two female actor and their emotio
 
 ### MFCC
 
-Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively make up an MFC. They are derived from a type of cepstral representation of the audio clip (a nonlinear "spectrum-of-a-spectrum").
-
+MFCCs are a way to analyze and describe the unique characteristics of an audio signal, such as speech or music. They are commonly used in speech recognition, music genre classification, and speaker identification systems.
 
 ### CNN MODEL
 
