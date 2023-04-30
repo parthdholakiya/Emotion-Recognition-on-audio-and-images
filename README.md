@@ -144,7 +144,7 @@ MFCCs are a way to analyze and describe the unique characteristics of an audio s
 
 ![Screenshot (385)cap](https://user-images.githubusercontent.com/94167271/210166724-f2c2b3d0-1a4f-4887-a122-980c38777d01.png)
 
-# Face-emotion-detection-project
+# Face-emotion-detection
 
 In a face emotion detection project, the goal is to build a system that can automatically identify and classify the emotion being expressed by a person in a given image or video frame. This can be used in a variety of applications, such as detecting emotions in customer service interactions, detecting emotions in social media posts, or detecting emotions in marketing research.
 
@@ -167,4 +167,4 @@ use TestEmotionDetector.py to test model on video or webcam
 
 ### Emotion detaction using Images (YOLO V8)
 
-![image](https://user-images.githubusercontent.com/94167271/234352632-e079229e-4fa8-4874-af7a-8edc0b56f61a.png)
+![image](https://user-images.githubusercontent.com/94167271/235363225-b3b6be0c-f254-4a8b-8a91-01c9b95330dd.png)
