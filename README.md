@@ -168,3 +168,6 @@ use TestEmotionDetector.py to test model on video or webcam
 ### Emotion detaction using Images (YOLO V8)
 
 ![image](https://user-images.githubusercontent.com/94167271/235363225-b3b6be0c-f254-4a8b-8a91-01c9b95330dd.png)
+
+![Untitled video - Made with Clipchamp](https://github.com/parthdholakiya/Emotion-Recognition-on-audio-and-images/assets/94167271/56283535-9f4b-469f-85e5-c4b7a5562eb5)
+
