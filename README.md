@@ -1,3 +1,48 @@
+# Speech Emotion Recognition Project
+
+## Overview
+
+This project focuses on Speech Emotion Recognition (SER) using Convolutional Neural Networks (CNN) and Mel-frequency cepstral coefficients (MFCCs). It involves training a model to recognize emotions in speech audio files, and it achieved remarkable accuracy on the Toronto Emotional Speech Set (TESS) dataset.
+
+## Project Structure
+
+- **Audio Processing and Feature Extraction:** The initial part of the project involves loading audio files, extracting Mel-frequency cepstral coefficients (MFCCs), and preparing the data for training.
+
+- **Model Training:** A CNN architecture is employed for training the emotion recognition model. The model is compiled with categorical crossentropy loss and Adam optimizer.
+
+- **Model Checkpoint:** The ModelCheckpoint callback is utilized to save the model with the highest validation accuracy during training.
+
+- **Training History Plotting:** The training history, including accuracy and validation accuracy, is plotted to visualize the model's learning progress over epochs.
+
+- **Model Evaluation:** The model is evaluated on a test set, and the confusion matrix and classification report are generated to assess its performance.
+
+- **Prediction on New Audio Files:** The trained model is validated on new audio files, showcasing its ability to predict emotions in unseen data.
+
+## Requirements
+
+- Python libraries: librosa, numpy, matplotlib, IPython, tensorflow, scikit-learn
+- Additional dependencies: py7zr (for unzipping 7z files)
+
+## Getting Started
+
+1. Install the required dependencies:
+
+   ```bash
+   pip install librosa numpy matplotlib IPython tensorflow scikit-learn py7zr
+
+## Model Performance
+
+The trained model achieves exceptional performance on the test set, demonstrating its capability to accurately recognize emotions in speech. The classification report provides insights into precision, recall, and F1-score for each emotion category.
+
+## Predictions on New Audio Files
+
+The model is tested on various audio files containing different emotional expressions, showcasing its versatility in recognizing emotions in real-world scenarios.
+
+## Conclusion
+
+This Speech Emotion Recognition project serves as a valuable tool for understanding and implementing emotion recognition in speech audio. The combination of CNN architecture and MFCC feature extraction proves effective in capturing emotional patterns in speech.
+
+
 # Speech-Emotion-Recognition
 ![image](https://user-images.githubusercontent.com/94167271/234299174-e0514f9a-f82f-4f01-9734-33a17da85e63.png)
 
